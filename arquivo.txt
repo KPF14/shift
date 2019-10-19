@@ -1,1 +1,7 @@
+Uma linha antes...
+
+
 Nossa primeira alteração no arquivo
+
+
+Uma linha depois..
